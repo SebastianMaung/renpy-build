@@ -1,3 +1,7 @@
+Forked to compile only for armv7l, trying to compile for Miyoo Mini Plus
+
+
+
 Ren'Py Build
 ============
 
